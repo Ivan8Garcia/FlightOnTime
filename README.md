@@ -11,7 +11,7 @@ Este proyecto forma parte del desafío **FlightOnTime**, orientado a Aviación C
 Desarrollar una **API REST** capaz de:
 - Recibir información de un vuelo
 - Procesar variables relevantes (aerolínea, fecha, horario, etc.)
-- Devolver una **estimación de retraso** o **on-time**
+- Devolver una **estimación de retraso** u **on-time**
 
 ---
 
@@ -20,7 +20,7 @@ Desarrollar una **API REST** capaz de:
 El microservicio expone endpoints REST que permiten:
 - Consultar aerolíneas disponibles
 - Enviar datos de un vuelo para su evaluación
-- Obtener una predicción basada en el modelo entrenado y entragado por el equipo de Data Science 
+- Obtener una predicción basada en el modelo entrenado y entregado por el equipo de Data Science 
  
 Arquitectura basada en capas:
 - Controller
